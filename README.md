@@ -1,4 +1,6 @@
-### Hi there 👋
+### The official GitHub repository for Shiba Rewards.
+
+Contracts, audits, and other documents will be published here for full review.
 
 <!--
 **ShibaRewards/ShibaRewards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
